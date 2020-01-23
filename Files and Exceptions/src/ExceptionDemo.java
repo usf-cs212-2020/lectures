@@ -165,7 +165,7 @@ public class ExceptionDemo {
 
       // We can also throw exceptions, so that we can still place the
       // code for dealing with when things go wrong in a catch block.
-      if (earned < 0 | possible <= 0) {
+      if (earned < 0 || possible <= 0) {
         throw new IllegalArgumentException("Values must be non-negative.");
       }
 
