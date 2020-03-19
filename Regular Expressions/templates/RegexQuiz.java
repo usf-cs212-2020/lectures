@@ -4,6 +4,9 @@ public class RegexQuiz {
     String text = null;
     String regex = null;
 
+    System.out.println(text);
+    System.out.println(regex);
+
     text = "hubbub";
     // RegexHelper.printMatches(text, "h.*b");
     // RegexHelper.printMatches(text, "h.*?b");

@@ -4,7 +4,6 @@
  * @see RegexHelper
  */
 public class RegexWordParsing {
-
   /**
    * Demonstrates basic word matching in regular expressions.
    *

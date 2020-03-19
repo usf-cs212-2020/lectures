@@ -4,7 +4,6 @@
  * @see RegexHelper
  */
 public class RegexQuantifiers {
-
   /**
    * Demonstrates differences between quantifiers.
    *

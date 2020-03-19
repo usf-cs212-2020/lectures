@@ -10,7 +10,6 @@ import java.util.stream.Collectors;
  * substrings.
  */
 public class RegexStreams {
-
   /**
    * A simple regular expression to find HTML tags. Not robust enough to catch all valid cases!
    */

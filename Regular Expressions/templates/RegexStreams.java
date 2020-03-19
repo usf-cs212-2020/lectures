@@ -1,12 +1,8 @@
 import java.util.List;
 import java.util.Set;
-import java.util.regex.MatchResult;
-import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-import java.util.stream.Collectors;
 
 public class RegexStreams {
-
   public static final Pattern HTML_TAG = Pattern.compile("</?(\\w+)>");
 
   public static String lowercaseTags(String html) {
@@ -34,7 +30,7 @@ public class RegexStreams {
         "    </UL>",
         "  </BODY>",
         "</HTML>");
-    
+
     String html = String.join(System.lineSeparator(), lines);
 
     System.out.println(html);

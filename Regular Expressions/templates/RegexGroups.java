@@ -1,14 +1,15 @@
 public class RegexGroups {
+  public static void main(String[] args) {
+    String email = "username@subdomain.example.com";
 
-	public static void main(String[] args) {
-		String email = "username@subdomain.example.com";
+    // TODO
+    String regex = "";
 
-		// TODO
-		String regex = "";
+    // TODO
 
-		// TODO
+    System.out.println(email);
+    System.out.println(regex);
 
-		// System.out.printf("Group #%d: %s%n", i, matcher.group(i));
-	}
-
+    // System.out.printf("Group #%d: %s%n", i, matcher.group(i));
+  }
 }

@@ -1,7 +1,5 @@
 public class RegexWordParsing {
-
   public static void main(String[] args) {
-
     String text = RegexHelper.sample;
     String regex = "";
 
@@ -10,6 +8,5 @@ public class RegexWordParsing {
     RegexHelper.showMatches(text, regex);
 
     System.out.println();
-
   }
 }

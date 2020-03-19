@@ -5,7 +5,6 @@ import java.util.regex.Pattern;
  * A quick demo of how to use groups in regular expressions.
  */
 public class RegexGroups {
-
   /**
    * Demonstrates how to extract different groups from a regular expression. Not meant to be a good
    * regular expression for emails though! It breaks for some special cases.

@@ -4,7 +4,6 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public final class RegexHelper {
-
   public static final String sample = "Sally Sue sells 76 sea-shells, by   the sea_shore.";
 
   public static void printMatches(String text, String regex) {

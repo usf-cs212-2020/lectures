@@ -7,7 +7,6 @@ import java.util.regex.Pattern;
  * Class to help debug and understand regular expressions.
  */
 public final class RegexHelper {
-
   /** Example string for testing regular expressions. **/
   public static final String sample = "Sally Sue sells 76 sea-shells, by   the sea_shore.";
 

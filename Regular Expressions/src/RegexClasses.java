@@ -4,7 +4,6 @@
  * @see RegexHelper
  */
 public class RegexClasses {
-
   /**
    * Demonstrates basic character classes in regular expressions.
    *

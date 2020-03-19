@@ -7,7 +7,6 @@ import java.util.regex.Pattern;
  * @see RegexHelper
  */
 public class RegexQuiz {
-
   /**
    * Tests how well you combine different regex components.
    *

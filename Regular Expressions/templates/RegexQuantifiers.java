@@ -1,6 +1,5 @@
 
 public class RegexQuantifiers {
-
   public static void main(String[] args) {
     String text = "aardvark";
     String regex;

@@ -5,7 +5,6 @@
  * @see RegexHelper
  */
 public class RegexBoundaries {
-
   /**
    * Demonstrates basic boundary matching in regular expressions.
    *
