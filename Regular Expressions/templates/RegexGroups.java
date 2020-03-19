@@ -1,6 +1,7 @@
 public class RegexGroups {
   public static void main(String[] args) {
     String email = "username@subdomain.example.com";
+    String html = String.format("<a href=\"mailto:%s\">%s</a>", email, "username@usfca.edu");
 
     // TODO
     String regex = "";
